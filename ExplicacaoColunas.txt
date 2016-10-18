@@ -1,0 +1,6 @@
+
+Tabela Grupo o campo tipo pode assumiar seguinte valores:
+CT categoria
+CB combustivel
+MD modelo
+MR marca

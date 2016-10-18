@@ -17,4 +17,4 @@ Além dos filtros com as principais informações, usuário também poderá visu
 
 
 ###4 MODELO CONCEITUAL
-![Alt text](https://github.com/pedrohcosta/TrabalhoBD1/blob/master/ModeloTrabalhoBD.jpg "Title")
+![Alt text](https://github.com/pedrohcosta/TrabalhoBD1/blob/master/ModeloConteitual.jpg "Title")

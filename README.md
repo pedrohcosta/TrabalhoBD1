@@ -17,15 +17,15 @@ Além dos filtros com as principais informações, usuário também poderá visu
 
 ###4 RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-###4.1 TABELA DE DADOS DO SISTEMA:<br>
+####4.1 TABELA DE DADOS DO SISTEMA:<br>
 
 ###5 MODELO CONCEITUAL<br>
 
 ###5.1 Validação do Modelo Conceitual<br>
 
-###5.2 DECISÕES DE PROJETO<br>
+####5.2 DECISÕES DE PROJETO<br>
 
-###5.3 DESCRIÇÃO DOS DADOS<br>
+####5.3 DESCRIÇÃO DOS DADOS<br>
 
 ###6 MODELO LÓGICO<br>
 
